@@ -1,31 +1,15 @@
 
+
+
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const App = () => {
+const Fourth = () => {
   return (
     <View>
-      <Text>App</Text>
+      <Text>Hello I am fourth</Text>
     </View>
   );
 };
 
-
-
-export default App;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+export default Fourth;
